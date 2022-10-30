@@ -3,7 +3,7 @@
 Dans ce repository, vous aller retrouver une implémentation du livre de Irfan Elahi intitulé : Scala Programming for Big Data Analytics
 
 
-## Auteurs
+## Links auteur
 
 - [Github](https://www.github.com/KhalilouLahi-Samb)
 - [LinkedIn](https://www.linkedin.com/in/ibrahima-samb-dev)
